@@ -32,7 +32,6 @@ body {
   width: 100%;
   border-radius: 1rem;
   text-align: center;
-  margin-top: 5rem;
   background-color: #1b1938;
   overflow: hidden;
   display: flex;
@@ -120,7 +119,7 @@ body {
 .attribution {
   font-size: 0.8rem;
   text-align: center;
-  margin-top: 2rem; }
+  margin-top: 5rem; }
   @media (min-width: 1180px) {
     .attribution {
       position: absolute;
