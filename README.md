@@ -68,7 +68,7 @@ Users should be able to:
 ### Useful resources
 
 - [impressivewebs](https://www.impressivewebs.com/) - This website helped me to get some idea of how to add a color overlay on an image.
-- [mix-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode) - This is CSS property helped me to achieve the desirable result of getting as close to the original design as possible.
+- [mix-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode) - This CSS property helped me to achieve the desirable result of getting as close to the original design as possible.
 
 ## Author
 
