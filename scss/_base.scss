@@ -1,0 +1,36 @@
+$color-primary: hsl(244, 38%, 16%);
+$color-primary--dark: hsl(233, 47%, 7%);
+$color-primary--light: hsl(277, 64%, 61%);
+$color-secondary: hsl(0, 0%, 100%);
+$color-secondary--dark: hsla(0, 0%, 100%, 0.6);
+$color-secondary--light: hsla(0, 0%, 100%, 0.75);
+
+$font-primary: 'Inter', sans-serif;
+$font-secondary: 'Lexend Deca', sans-serif;
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  color: $color-secondary;
+  font-family: $font-primary;
+  background-color: $color-primary--dark;
+  position: relative;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
