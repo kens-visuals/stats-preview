@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [TBU](https://your-solution-url.com)
-- Live Site URL: [TBU](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-card-component-using-bem-and-scss-Xoknc8IAa](https://www.frontendmentor.io/solutions/stats-card-component-using-bem-and-scss-Xoknc8IAa)
+- Live Site URL: [https://kens-visuals.github.io/stats-preview/](https://kens-visuals.github.io/stats-preview/)
 
 ## My process
 
